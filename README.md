@@ -9,7 +9,7 @@
  - Swagger
  - AutoMapper
  - SQL Server
- - 
+   
 ### Funcionalidades
 
  - Cadastro, Listagem, Detalhes, Atualização, e Remoção de Evento
